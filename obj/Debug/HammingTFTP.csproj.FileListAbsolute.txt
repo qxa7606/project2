@@ -1,0 +1,3 @@
+C:\Users\Qasim Ali\source\repos\project2\project2\obj\Debug\HammingTFTP.csproj.CoreCompileInputs.cache
+C:\Users\Qasim Ali\source\repos\project2\project2\obj\Debug\project2.exe
+C:\Users\Qasim Ali\source\repos\project2\project2\obj\Debug\project2.pdb

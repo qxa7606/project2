@@ -1,0 +1,7 @@
+C:\Users\Qasim Ali\source\repos\project2\project2\bin\Debug\project2.exe.config
+C:\Users\Qasim Ali\source\repos\project2\project2\bin\Debug\project2.exe
+C:\Users\Qasim Ali\source\repos\project2\project2\bin\Debug\project2.pdb
+C:\Users\Qasim Ali\source\repos\project2\project2\obj\Debug\project2.csproj.CoreCompileInputs.cache
+C:\Users\Qasim Ali\source\repos\project2\project2\obj\Debug\project2.exe
+C:\Users\Qasim Ali\source\repos\project2\project2\obj\Debug\project2.pdb
+C:\Users\Qasim Ali\source\repos\project2\project2\obj\Debug\project2.csprojResolveAssemblyReference.cache
